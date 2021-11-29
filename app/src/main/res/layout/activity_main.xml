@@ -45,7 +45,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Button" />
+            android:text="Button1" />
 
         <Button
             android:id="@+id/button"
@@ -53,7 +53,7 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="88dp"
             android:layout_weight="1"
-            android:text="Button" />
+            android:text="Button2" />
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
